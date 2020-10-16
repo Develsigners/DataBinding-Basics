@@ -13,4 +13,11 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="TextStyle">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:paddingTop">@dimen/small_padding</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin</item>
+    </style>
 </resources>

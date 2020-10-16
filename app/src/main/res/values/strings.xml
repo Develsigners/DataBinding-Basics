@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DataBinding-Basics</string>
+    <string name="what_are_you_learning">What are you learning?</string>
+    <string name="done">Done</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="name">Develsigners</string>
+    <string name="learn_more">Learn more at Develsigners</string>
 </resources>
